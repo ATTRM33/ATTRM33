@@ -1,4 +1,4 @@
--  Hi, I’m Zach and I am a student
+-  Hi, I’m Zach
 - I’m interested in becoming more knowledgeable in software development. I specifically am interested in front end web development, but I enjoy learning more about software development as a whole
 - I’m currently learning C++, Java, Javascript, HTML, Python, and CSS
 - How to reach me ... ATTRM33@gmail.com
