@@ -1,5 +1,5 @@
 # Zach Brown
-## Aspiring Software Developer
+Aspiring Software Developer
 
 ### Front End
 - Javascript
