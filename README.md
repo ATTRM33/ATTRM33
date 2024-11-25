@@ -2,9 +2,9 @@
 ## Aspiring Software Developer
 
 ### Front End
--Javascript
--HTML
--CSS (Bootstrap)
+- Javascript
+- HTML
+- CSS (Bootstrap)
 
 ### Back End
 - Java
