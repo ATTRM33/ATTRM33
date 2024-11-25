@@ -1,5 +1,5 @@
 # Zach Brown
-Aspiring Software Developer
+Software Developer | Data Analytics | Machine Learning
 
 ### Front End
 - Javascript
